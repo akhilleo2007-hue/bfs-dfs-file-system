@@ -1,0 +1,8 @@
+Enter number of files/directories (1-50): Enter the name of each file/directory (one word each):
+Enter the 6 x 6 adjacency matrix (0 or 1):
+Enter starting file/directory: Enter file/directory to search: 
+BFS Traversal: Root Documents Pictures Resume Notes Photo 
+BFS Result: File 'Notes' found.
+
+DFS Traversal: Root Documents Resume Notes Pictures Photo 
+DFS Result: File 'Notes' found.
